@@ -1,1 +1,1 @@
-# FizzBuzzTest
+# logic-test
